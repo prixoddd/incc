@@ -7,6 +7,7 @@ function highAndLow(numbers){
     // z.push((k.sort(compareNumbers)[k.length -1]) + " " + (k.sort(compareNumbers)[0]));
     return z
   }
+  /////c/
 
 //   function highAndLow(numbers){
 //     numbers = numbers.split(' ').map(Number);
