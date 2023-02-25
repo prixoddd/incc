@@ -10,3 +10,5 @@ var arrLength = arr.map(function(name) {
 });
 
 console.log( arrLength ); // 4,5,2,5
+
+/dsajdjadh
